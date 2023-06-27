@@ -1,8 +1,6 @@
 <br>
 Welcome! This is the page of our tutorial "<b>Data Augmentation for Conversational AI</b>" at the ACM International Conference on Information and Knowledge Management (CIKM) 2023.
 
-Hi
-
 ## Abstract
 In the era of information technology, the conventional method of acquiring desired information through a single query has become insufficient. Advancements in neural networks and deep learning have led to the emergence of conversational systems as more effective means of accessing information. However, training high-parameter conversational models presents a significant challenge due to the reliance on large amounts of data, especially in low-resource domains and languages.
 The traditional method of data collection, crowd-sourcing, is labor-intensive and time-consuming, making it ineffective in this context. This tutorial aims to address the issue of data shortage in the field of dialogue systems by providing a comprehensive review of data augmentation and generation methods. It explores the utilization of existing dialogue data, as well as external resources such as unstructured text files, knowledge graphs, and information embedded in Large Language Models (LLMs), to generate new conversation data.
