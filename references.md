@@ -3,7 +3,8 @@ layout: default
 ---
 
 <p>
-In this section, we have compiled a comprehensive list of the papers that will be utilized in this tutorial. We have also highlighted the most important ones in pink, which facilitates the reading process for those who do not have enough time to read all the articles.
+In this section, we have compiled a comprehensive list of the papers that will be utilized in this tutorial. 
+<!--   We have also highlighted the most important ones in pink, which facilitates the reading process for those who do not have enough time to read all the articles. -->
 </p>
 
 
