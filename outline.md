@@ -4,33 +4,32 @@ layout: default
 
 ## Outline
 - Introduction
-  - Conversational systems 
-    - Open domain
+  - Conversational Systems 
+    - Open-domain
     - Task-oriented
-  - Problem of Data scarcity
-    - Learning from limited data (show statistics from lesser resourced applications)
+  - Problem of Data Scarcity
   - Data Augmentation
-    - Augmenting with Existing Conversations data
-    - Augmenting with Conversation generation
+    - Augmenting with Existing Conversations Data
+    - Augmenting with Conversation Generation
 
 - Conversation Augmentation
-  - Generic/General Token-level & Sentence-level augmentation
-  - Dialogue data augmentation
+  - Generic Token-level & Sentence-level Augmentation
+  - Dialogue Data Augmentation
 
-- Conversation Generation: Open Domain
-  - Single-turn QA pair generation
-  - Multi-turn dialogue generation
-  - Topic-aware dialogue agent
+- Conversation Generation: Open-domain
+  - Single-turn QA Pair Generation
+  - Multi-turn Dialogue Generation
+  - Topic-aware Dialogue Agent
     - One-turn Topic Transitions
-    - Target-oriented dialogue systems
+    - Target-oriented Dialogue Systems
 
 - Conversation Generation: Task-oriented
-  - Schema-Guided generation
+  - Schema-Guided Generation
   - Simulator-Agent Interaction
-  - End-2-End (E2E) creation
+  - End-2-End (E2E) Dataset Creation
 
 - Evaluation
-- Limitations and Future work
+- Conclusion and Future Direction
 
 
 ## Tutorial schedule
