@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Tutorial schedule
+# Schedule
 
 | Time  | Section | Presenter | 
 | ------------- | ------------- | ------------- |
