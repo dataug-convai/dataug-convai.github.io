@@ -36,7 +36,7 @@ layout: default
 
 | Time  | Section | Presenter | 
 | ------------- | ------------- | ------------- |
-| 09:00-09:15  | Introduction  | Faegheh |
+| 09:00-09:15  | Introduction [[Slides]](./src/CIKM23-ConvDA-Introduction.pdf) | Faegheh |
 | 09:15-09:40  | Conversation Augmentation  | Heydar |
 | 09:40-10:20  | Conversation Generation: ToD  | Roxana & Evangelos |
 | 10:20-10:30  | Q&A  | --- |
