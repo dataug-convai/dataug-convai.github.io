@@ -3,7 +3,8 @@ layout: default
 ---
 
 ### Presenters
-<table style="border: none; margin-left: auto; margin-right: auto;">
+<table style="border: none;">
+<tbody style="border: none; margin-left: auto; margin-right: auto;">
 <tr style="border: none;">
 <td align="center" style="width: 200px;" >
 <img class="circlepic" src="./imgs/Heydar.jpg" />
@@ -33,6 +34,7 @@ layout: default
 </td>
   
 </tr>
+</tbody>
 </table>
 
 
