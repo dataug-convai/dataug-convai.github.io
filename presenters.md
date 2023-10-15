@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Presenters
-<table style="border: none;">
+<table style="border: none; margin-left: auto; margin-right: auto;">
 <tr style="border: none;">
 <td align="center" style="width: 200px;" >
 <img class="circlepic" src="./imgs/Heydar.jpg" />
