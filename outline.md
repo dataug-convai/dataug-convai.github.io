@@ -34,3 +34,7 @@ layout: default
 
 ## Tutorial schedule
 
+| Time  | Second Header 
+| ------------- | ------------- 
+| 09:00-09:30  | Content Cell  
+| Content Cell  | Content Cell  
