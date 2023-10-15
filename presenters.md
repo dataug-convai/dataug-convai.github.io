@@ -9,7 +9,7 @@ layout: default
 <img class="circlepic" src="./imgs/Heydar.jpg" />
 </td>
 <td align="center" style="width: 200px;">
-<img class="circlepic" src="./imgs/roxana.jpg" />
+<img class="circlepic" src="./imgs/Roxana.png" />
 </td>
 <td align="center" style="width: 200px;">
 <img class="circlepic" src="./imgs/Evangelos.jpg" />
