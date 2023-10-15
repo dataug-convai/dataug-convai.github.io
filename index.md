@@ -1,5 +1,4 @@
 <br>
-Welcome! This is the page of our tutorial "<b>Data Augmentation for Conversational AI</b>" at the ACM International Conference on Information and Knowledge Management (CIKM) 2023.
 
 ## Abstract
 Advancements in conversational systems have revolutionized information access, surpassing the limitations of single queries. 
