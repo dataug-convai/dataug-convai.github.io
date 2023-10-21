@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Proposal of Tutorial: [Source](./src/DAConvAI_proposal_CIKM2023.pdf)
+
 # Schedule
 
 | Time  | Section | Presenter | 
