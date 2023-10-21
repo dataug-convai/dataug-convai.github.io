@@ -6,14 +6,16 @@ layout: default
 
 | Time  | Section | Presenter | 
 | ------------- | ------------- | ------------- |
-| 09:00-09:15  | Introduction [[Slides]](./src/CIKM23-ConvDA-Introduction.pdf) | Faegheh |
-| 09:15-09:40  | Conversation Augmentation [[Slides]]() | Heydar |
-| 09:40-10:20  | Conversation Generation: ToD [[Slides]]()  | Roxana & Evangelos |
-| 10:20-10:30  | Q&A  | --- |
+| 09:00-09:20  | Introduction [[Slides]](./src/CIKM2023-ConvAug-Introduction.pdf) | Faegheh |
+| 09:20-09:40  | Evaluation [[Slides]](./src/CIKM2023-ConvAug-Evaluation.pdf) | Faegheh |
+| 09:40-09:45  | Q&A  | --- |
+| 09:45-10:10  | Conversation Augmentation [[Slides]](./src/CIKM2023-ConvAug-Augmentation.pdf) | Heydar |
+| 10:10-10:30  | Conversation Generation: ToD (Part 1) [[Slides]](./src/CIKM2023-ConvAug-ToD.pdf)  | Evangelos |
 | 10:30-11:00  | Coffee Break | --- |
-| 11:00-11:10  | Conversation Generation: ODD, Evaluation [[Slides]]() | Faegheh |
-| 11:10-11:40  | Conversation Generation: ODD, Pre-LLM [[Slides]]() | Heydar |
-| 11:40-12:00  | Conversation Generation: ODD, Post-LLM [[Slides]]() | Faegheh |
-| 12:00-12:10  | Conclusion & Future Works [[Slides]]() | Faegheh |
-| 12:10-12:20  | Q&A  | --- |
+
+| 11:00-11:20  | Conversation Generation: ToD (Part 2) | Roxana |
+| 11:20-11:25  | Q&A  | --- |
+| 11:25-12:15  | Conversation Generation: ODD [[Slides]](./src/CIKM2023-ConvAug-ODD.pdf) | Heydar & Faegheh |
+| 12:15-12:25  | Conclusion & Future Works [[Slides]](./src/CIKM2023-ConvAug-Future.pdf) | Faegheh |
+| 12:25-12:30  | Q&A  | --- |
 
