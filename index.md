@@ -11,6 +11,6 @@ Familiarity with machine learning, deep learning and transformers is required. N
 
 ## Video teaser
 
-<video weight="" height="" poster="">
-  <source type="" src="">
+<video weight="320" height="320" poster="">
+  <source type="video/mp4" src="./imgs/teaser.mp4">
 </video>
