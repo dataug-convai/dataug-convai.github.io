@@ -61,21 +61,64 @@ In this section, we have compiled a comprehensive list of the papers that will b
 
 ## Conversation Generation: Open Domain 
 
+### PreLLM
+- A Synthetic Data Generation Framework for Grounded Dialogues, ACL 2023, [link](https://aclanthology.org/2023.acl-long.608/)
+- DG2: Data Augmentation Through Document Grounded Dialogue Generation, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.21/)
+- Generating Information-Seeking Conversations from Unlabeled Documents, EMNLP 2022, [link](https://aclanthology.org/2022.emnlp-main.151/)
+- Knowledge-Grounded Conversational Data Augmentation with Generative Conversational Networks, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.3/)
+- Multi-Type Conversational Question-Answer Generation with Closed-ended and Unanswerable Questions, AACL 2022, [link](https://aclanthology.org/2022.aacl-short.22/)
+- Conversational QA Dataset Generation with Answer Revision, COLING 2022, [link](https://aclanthology.org/2022.coling-1.140/)
+
+- EAGLE: Enhance Target-Oriented Dialogs by Global Planning and Topic Flow Integration, CIKM 2023, [link](https://dl.acm.org/doi/abs/10.1145/3583780.3614860)
+- Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue, Arxiv 2023, [link](https://arxiv.org/abs/2305.05290)
+- TopKG: Target-oriented Dialog via Global Planning on Knowledge Graph, COLING 2022, [link](https://aclanthology.org/2022.coling-1.62/)
+- Keyword-guided neural conversational model, AAAI 2021, [link](https://github.com/zhongpeixiang/CKC)
+- Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation, AAAI 2020, [link](https://github.com/James-Yip/TGODC-DKRN)
+- Target-Guided Open-Domain Conversation, ACL 2019, [link](https://aclanthology.org/P19-1565/)
+
+- BotsTalk: Machine-sourced Framework for Automatic Curation of Large-scale Multi-skill Dialogue Datasets, EMNLP 2022, [link](https://aclanthology.org/2022.emnlp-main.344/)
+- Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding, Arxiv 2022, [link](https://arxiv.org/abs/2210.14169)
+- DialAug: Mixing up Dialogue Contexts in Contrastive Learning for Robust Conversational Modeling, COLING 2022, [link](https://aclanthology.org/2022.coling-1.35/)
+- Counterfactual Data Augmentation via Perspective Transition for Open-Domain Dialogues, EMNLP 2022, [link](https://aclanthology.org/2022.emnlp-main.106.pdf)
+- Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data, EMNLP 2020, [link](https://aclanthology.org/2020.emnlp-main.277/)
+- Insufficient data can also rock! learning to converse using smaller data with augmentation, AAAI 2019, [link](https://dl.acm.org/doi/abs/10.1609/aaai.v33i01.33016698)
+
+- PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them, TACL 2021, [link](https://aclanthology.org/2021.tacl-1.65/)
+- Unsupervised question answering by cloze translation, ACL 2019, [link](https://aclanthology.org/P19-1484/)
+- Synthetic QA Corpora Generation with Roundtrip Consistency, ACL 2019, [link](https://aclanthology.org/P19-1620/)
+
+
+### PostLLM
+- INA: An Integrative Approach for Enhancing Negotiation Strategies with Reward-Based Dialogue System, EMNLP 2023, [link](https://paperswithcode.com/paper/ina-an-integrative-approach-for-enhancing)
+- Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation, EMNLP 2023, [link](https://paperswithcode.com/paper/target-oriented-proactive-dialogue-systems)
+- Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration, Arxiv 2023, [link](https://arxiv.org/abs/2305.13626)
+- Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data, Arxiv 2023, [link](https://arxiv.org/abs/2304.01196)
+- PERSONACHATGEN: Generating Personalized Dialogues using GPT-3, CCGPK 2022, [link](https://aclanthology.org/2022.ccgpk-1.4/)
+- PLACES: Prompting Language Models for Social Conversation Synthesis, EACL(Findings) 2023, [link](https://aclanthology.org/2023.findings-eacl.63/)
+- SODA- Million-scale Dialogue Distillation with Social Commonsense Contextualization, Arxiv 2022, [link](https://arxiv.org/abs/2212.10465)
+
+- PlatoLM: Teaching LLMs via a Socratic Questioning User Simulator, Arxiv 2023, [link](https://openreview.net/forum?id=9nddtu94uX)
+- Enhancing Chat Language Models by Scaling High-quality Instructional Conversations, Arxiv 2023, [link](https://arxiv.org/abs/2305.14233)
+- MATHDIAL- A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems, Arxiv 2023, [link](https://arxiv.org/abs/2305.14536)
+- ChatDoctor- A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge, Arxiv 2023, [link](https://arxiv.org/abs/2303.14070)
+
+- Dialog Inpainting: Turning Documents into Dialogs, ICML 2022, [link](https://arxiv.org/abs/2205.09073)
+
+
+
+
+
+
+
+<!-- 
+
 ### Single-turn QA pair generation
 - GRADA: Graph Generative Data Augmentation for Commonsense Reasoning, COLING 2022, [link](https://aclanthology.org/2022.coling-1.397/)
 - Generative Data Augmentation for Commonsense Reasoning, EMNLP 2020, [link](https://aclanthology.org/2020.findings-emnlp.90/)
-- PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them, TACL 2021, [link](https://aclanthology.org/2021.tacl-1.65/)
+
 - Training question answering models from synthetic data, EMNLP 2020, [link](https://aclanthology.org/2020.emnlp-main.468/)
-- Synthetic QA Corpora Generation with Roundtrip Consistency, ACL 2019, [link](https://aclanthology.org/P19-1620/)
-- Unsupervised question answering by cloze translation, ACL 2019, [link](https://aclanthology.org/P19-1484/)
 
 ### Multi-turn dialogue generation
-- Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data, Arxiv 2023, [link](https://arxiv.org/abs/2304.01196)
-- Generating Information-Seeking Conversations from Unlabeled Documents, EMNLP 2022, [link](https://aclanthology.org/2022.emnlp-main.151/)
-- Knowledge-Grounded Conversational Data Augmentation with Generative Conversational Networks, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.3/)
-- DG2: Data Augmentation Through Document Grounded Dialogue Generation, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.21/)
-- Multi-Type Conversational Question-Answer Generation with Closed-ended and Unanswerable Questions, AACL 2022, [link](https://aclanthology.org/2022.aacl-short.22/)
-- Conversational QA Dataset Generation with Answer Revision, COLING 2022, [link](https://aclanthology.org/2022.coling-1.140/)
 - CoHS-CQG: Context and History Selection for Conversational Question Generation, COLING 2022, [link](https://aclanthology.org/2022.coling-1.48/)
 - ChainCQG: Flow-Aware Conversational Question Generation, EACL 2021, [link](https://aclanthology.org/2021.eacl-main.177/)
 - Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations, EMNLP 2020, [link](https://aclanthology.org/2020.findings-emnlp.3/)
@@ -90,22 +133,11 @@ In this section, we have compiled a comprehensive list of the papers that will b
 - OTTers: One-turn Topic Transitions for Open-Domain Dialogue, ACL 2021, [link](https://aclanthology.org/2021.acl-long.194/)
 
 #### Target-oriented dialogue systems
-- TopKG: Target-oriented Dialog via Global Planning on Knowledge Graph, COLING 2022, [link](https://aclanthology.org/2022.coling-1.62/)
-- Keyword-guided neural conversational model, AAAI 2021, [link](https://github.com/zhongpeixiang/CKC)
-- Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation, AAAI 2020, [link](https://github.com/James-Yip/TGODC-DKRN)
-- Target-Guided Open-Domain Conversation, ACL 2019, [link](https://aclanthology.org/P19-1565/)
-
-- Dialogue Planning via Brownian Bridge Stochastic Process for Goal-directed Proactive Dialogue, Arxiv 2023, [link](https://arxiv.org/abs/2305.05290)
 - HiTKG: Towards Goal-Oriented Conversations via Multi-Hierarchy Learning, AAAI 2022, [link](https://aaai-2022.virtualchair.net/poster_aaai11762)
 - Enhancing Dialog Coherence with Event Graph Grounded Content Planning, IJCAI 2020, [link](https://www.ijcai.org/proceedings/2020/545)
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation, AAAI 2020, [link](https://ojs.aaai.org/index.php/AAAI/article/view/6474)
 
-
-
-
-
 ## Conversation Augmentation
-
 ### Generic/General Token-level & Sentence-level augmentation
 - Multilingual Transfer Learning for QA using Translation as Data Augmentation, AAAI 2021, [link](https://ojs.aaai.org/index.php/AAAI/article/view/17491)
 - QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, Arxiv 2018, [link](https://arxiv.org/abs/1804.09541)
@@ -119,13 +151,8 @@ In this section, we have compiled a comprehensive list of the papers that will b
 - Contextual augmentation: Data augmentation by words with paradigmatic relations, NAACL 2018, [link](https://aclanthology.org/N18-2072/)
 - Snippext: Semi-supervised Opinion Mining with Augmented Data, WWW 2020, [link](https://dl.acm.org/doi/abs/10.1145/3366423.3380144)
 - EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks, EMNLP 2019, [link](https://aclanthology.org/D19-1670/)
-- Towards textual data augmentation for neural networks: synonyms and maximum loss, Comput. Sci. 2019, [link](https://journals.agh.edu.pl/csci/article/view/3023)
+- Towards textual data augmentation for neural networks: synonyms and maximum loss, Comput. Sci. 2019, [link](https://journals.agh.edu.pl/csci/article/view/3023) -->
 
-### Dialogue data augmentation
-- DialAug: Mixing up Dialogue Contexts in Contrastive Learning for Robust Conversational Modeling, COLING 2022, [link](https://aclanthology.org/2022.coling-1.35/)
-- Counterfactual Data Augmentation via Perspective Transition for Open-Domain Dialogues, EMNLP 2022, [link](https://aclanthology.org/2022.emnlp-main.106.pdf)
-- Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data, EMNLP 2020, [link](https://aclanthology.org/2020.emnlp-main.277/)
-- Insufficient data can also rock! learning to converse using smaller data with augmentation, AAAI 2019, [link](https://dl.acm.org/doi/abs/10.1609/aaai.v33i01.33016698)
 
 
 
