@@ -27,6 +27,15 @@ In this section, we have compiled a comprehensive list of the papers that will b
 - To Augment or Not to Augment? A Comparative Study on Text Augmentation Techniques for Low-Resource NLP, Comput. Linguistics 2022, [link](https://aclanthology.org/2022.cl-1.2/)
 - A Survey of Data Augmentation Approaches for NLP, ACL/IJCNLP 2021, [link](https://aclanthology.org/2021.findings-acl.84/)
 
+## Evaluation
+- Sentence-BERT : Sentence Embeddings using Siamese BERT-Networks, EMNLP/IJCNLP 2019, [link](https://aclanthology.org/D19-1410/)
+- G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment, Arxiv 2023, [link](https://arxiv.org/abs/2303.16634)
+- Human Evaluation of Conversations is an Open Problem : comparing the sensitivity of various methods for evaluating dialogue agents, ACL 2022, [link](https://aclanthology.org/2022.nlp4convai-1.8/)
+- USR: An unsupervised and reference free evaluation metric for dialog generation, ACL 2020, [link](https://aclanthology.org/2020.acl-main.64/)
+- ACUTE-EVAL: Improved dialogue evaluation with optimized questions and multi-turn comparisons, Arxiv 2019, [link](https://arxiv.org/abs/1909.03087)
+- BERTScore: Evaluating Text Generation with BERT, ICLR 2020, [link](https://openreview.net/forum?id=SkeHuCVFDr)
+
+
 ## Conversation Augmentation
 
 ### Generic/General Token-level & Sentence-level augmentation
