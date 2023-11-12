@@ -7,11 +7,6 @@ In this section, we have compiled a comprehensive list of the papers that will b
 <!--   We have also highlighted the most important ones in pink, which facilitates the reading process for those who do not have enough time to read all the articles. -->
 </p>
 
-| # Title  | # Link | # Source | 
-| ------------- | ------------- | ------------- |
-| Conversational Recommender Systems, RecSys 2020  | [source](https://recsys.acm.org/recsys20/tutorials/#content-tab-1-5-tab) | [video](https://www.youtube.com/watch?v=RdGnJSRA0aw&t=2415s) |
-|
-
 ## Related Tutorials
 - Conversational Recommender Systems, RecSys 2020, [source](https://recsys.acm.org/recsys20/tutorials/#content-tab-1-5-tab), [video](https://www.youtube.com/watch?v=RdGnJSRA0aw&t=2415s)
 - Self-Supervised Learning for Recommendation, CIKM 2022, [source](https://ssl-recsys.github.io/), [video](https://www.youtube.com/watch?v=ZbGKB41ajK4)
@@ -36,33 +31,32 @@ In this section, we have compiled a comprehensive list of the papers that will b
 - BERTScore: Evaluating Text Generation with BERT, ICLR 2020, [link](https://openreview.net/forum?id=SkeHuCVFDr)
 
 
-## Conversation Augmentation
+## Conversation Generation: Task-oriented
 
-### Generic/General Token-level & Sentence-level augmentation
-- Multilingual Transfer Learning for QA using Translation as Data Augmentation, AAAI 2021, [link](https://ojs.aaai.org/index.php/AAAI/article/view/17491)
-- QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, Arxiv 2018, [link](https://arxiv.org/abs/1804.09541)
-- Submodular optimization-based diverse paraphrasing and its effectiveness in data augmentation, NAACL 2019, [link](https://aclanthology.org/N19-1363/)
+### PreLLM
+- Towards Scalable Multi-Domain Conversational Agents: The Schema-Guided Dialogue Dataset, AAAI 2020, [link](https://arxiv.org/abs/1909.05855)
+- Building a Conversational Agent Overnight with Dialogue Self-Play, Arxiv 2018, [link](https://arxiv.org/abs/1801.04871)
 
-- TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding, NAACL 2022, [link](https://aclanthology.org/2022.naacl-main.385/)
-- SSMix: Saliency-Based Span Mixup for Text Classification, ACL-IJCNLP 2021, [link](https://aclanthology.org/2021.findings-acl.285/)
-- Good-Enough Compositional Data Augmentation, ACL 2020, [link](https://aclanthology.org/2020.acl-main.676/)
-- Data Augmentation Using Pre-trained Transformer Models, lifelongnlp 2020, [link](https://aclanthology.org/2020.lifelongnlp-1.3/)
-- Soft Contextual Data Augmentation for Neural Machine Translation, ACL 2019, [link](https://aclanthology.org/P19-1555/)
-- Contextual augmentation: Data augmentation by words with paradigmatic relations, NAACL 2018, [link](https://aclanthology.org/N18-2072/)
-- Snippext: Semi-supervised Opinion Mining with Augmented Data, WWW 2020, [link](https://dl.acm.org/doi/abs/10.1145/3366423.3380144)
-- EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks, EMNLP 2019, [link](https://aclanthology.org/D19-1670/)
-- Towards textual data augmentation for neural networks: synonyms and maximum loss, Comput. Sci. 2019, [link](https://journals.agh.edu.pl/csci/article/view/3023)
+- A Unified Dialogue User Simulator for Few-shot Data Augmentation, EMNLP 2022, [link](https://aclanthology.org/2022.findings-emnlp.277/)
+- NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation, ACL/IJCNLP 2021, [link](https://aclanthology.org/2021.acl-long.287/)
+- Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation, EMNLP 2020, [link](https://aclanthology.org/2020.emnlp-main.274/)
 
+- Transferable Dialogue Systems and User Simulators, ACL 2021, [link](https://aclanthology.org/2021.acl-long.13/)
+- Domain-independent User Simulation with Transformers for Task-oriented Dialogue Systems, SIGDIAL 2021, [link](https://aclanthology.org/2021.sigdial-1.47/)
+- Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models, NAACL 2019, [link](https://aclanthology.org/N19-1123/)
 
-### Dialogue data augmentation
-- DialAug: Mixing up Dialogue Contexts in Contrastive Learning for Robust Conversational Modeling, COLING 2022, [link](https://aclanthology.org/2022.coling-1.35/)
-- Counterfactual Data Augmentation via Perspective Transition for Open-Domain Dialogues, EMNLP 2022, [link](https://aclanthology.org/2022.emnlp-main.106.pdf)
-- Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data, EMNLP 2020, [link](https://aclanthology.org/2020.emnlp-main.277/)
-- Insufficient data can also rock! learning to converse using smaller data with augmentation, AAAI 2019, [link](https://dl.acm.org/doi/abs/10.1609/aaai.v33i01.33016698)
 - Controllable User Dialogue Act Augmentation for Dialogue State Tracking, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.5/)
 - CoCo: Controllable Counterfactuals for Evaluating Dialogue State Trackers, ICRL 2021, [link](https://github.com/salesforce/coco-dst)
 - Paraphrase Augmented Task-Oriented Dialog Generation, ACL 2020, [link](https://aclanthology.org/2020.acl-main.60/)
 - Dialog State Tracking with Reinforced Data Augmentation, AAAI 2020, [link](https://ojs.aaai.org/index.php/AAAI/article/view/6491)
+
+
+### PostLLM
+- In-Context Learning User Simulators for Task-Oriented Dialog Systems, Arxiv 2023, [link](https://arxiv.org/pdf/2306.00774.pdf)
+- DIALOGIC: Controllable Dialogue Simulation with In-Context Learning, EMNLP 2022, [link](https://aclanthology.org/2022.findings-emnlp.318/)
+- LAD: Language Models as Data for Zero-Shot Dialog, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.55/)
+- Simulated Chats for Building Dialog Systems: Learning to Generate Conversations from Instructions, EMNLP 2021, [link](https://aclanthology.org/2021.findings-emnlp.103.pdf)
+  
 
 
 ## Conversation Generation: Open Domain 
@@ -106,26 +100,32 @@ In this section, we have compiled a comprehensive list of the papers that will b
 - Enhancing Dialog Coherence with Event Graph Grounded Content Planning, IJCAI 2020, [link](https://www.ijcai.org/proceedings/2020/545)
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation, AAAI 2020, [link](https://ojs.aaai.org/index.php/AAAI/article/view/6474)
 
-## Conversation Generation: Task-oriented
 
-### Schema-Guided generation
-- Towards Scalable Multi-Domain Conversational Agents: The Schema-Guided Dialogue Dataset, AAAI 2020, [link](https://arxiv.org/abs/1909.05855)
-- Building a Conversational Agent Overnight with Dialogue Self-Play, Arxiv 2018, [link](https://arxiv.org/abs/1801.04871)
 
-### Simulator-Agent Interaction
-- In-Context Learning User Simulators for Task-Oriented Dialog Systems, Arxiv 2023, [link](https://arxiv.org/pdf/2306.00774.pdf)
-- A Unified Dialogue User Simulator for Few-shot Data Augmentation, EMNLP 2022, [link](https://aclanthology.org/2022.findings-emnlp.277/)
-- Simulated Chats for Building Dialog Systems: Learning to Generate Conversations from Instructions, EMNLP 2021, [link](https://aclanthology.org/2021.findings-emnlp.103.pdf)
-- Transferable Dialogue Systems and User Simulators, ACL 2021, [link](https://aclanthology.org/2021.acl-long.13/)
-- Domain-independent User Simulation with Transformers for Task-oriented Dialogue Systems, SIGDIAL 2021, [link](https://aclanthology.org/2021.sigdial-1.47/)
-- Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models, NAACL 2019, [link](https://aclanthology.org/N19-1123/)
 
-### E2E creation
-- PLACES: Prompting Language Models for Social Conversation Synthesis, EACL 2023, [link](https://aclanthology.org/2023.findings-eacl.63/)
-- DIALOGIC: Controllable Dialogue Simulation with In-Context Learning, EMNLP 2022, [link](https://aclanthology.org/2022.findings-emnlp.318/)
-- LAD: Language Models as Data for Zero-Shot Dialog, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.55/)
-- NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation, ACL/IJCNLP 2021, [link](https://aclanthology.org/2021.acl-long.287/)
-- Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation, EMNLP 2020, [link](https://aclanthology.org/2020.emnlp-main.274/)
+
+## Conversation Augmentation
+
+### Generic/General Token-level & Sentence-level augmentation
+- Multilingual Transfer Learning for QA using Translation as Data Augmentation, AAAI 2021, [link](https://ojs.aaai.org/index.php/AAAI/article/view/17491)
+- QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, Arxiv 2018, [link](https://arxiv.org/abs/1804.09541)
+- Submodular optimization-based diverse paraphrasing and its effectiveness in data augmentation, NAACL 2019, [link](https://aclanthology.org/N19-1363/)
+
+- TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding, NAACL 2022, [link](https://aclanthology.org/2022.naacl-main.385/)
+- SSMix: Saliency-Based Span Mixup for Text Classification, ACL-IJCNLP 2021, [link](https://aclanthology.org/2021.findings-acl.285/)
+- Good-Enough Compositional Data Augmentation, ACL 2020, [link](https://aclanthology.org/2020.acl-main.676/)
+- Data Augmentation Using Pre-trained Transformer Models, lifelongnlp 2020, [link](https://aclanthology.org/2020.lifelongnlp-1.3/)
+- Soft Contextual Data Augmentation for Neural Machine Translation, ACL 2019, [link](https://aclanthology.org/P19-1555/)
+- Contextual augmentation: Data augmentation by words with paradigmatic relations, NAACL 2018, [link](https://aclanthology.org/N18-2072/)
+- Snippext: Semi-supervised Opinion Mining with Augmented Data, WWW 2020, [link](https://dl.acm.org/doi/abs/10.1145/3366423.3380144)
+- EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks, EMNLP 2019, [link](https://aclanthology.org/D19-1670/)
+- Towards textual data augmentation for neural networks: synonyms and maximum loss, Comput. Sci. 2019, [link](https://journals.agh.edu.pl/csci/article/view/3023)
+
+### Dialogue data augmentation
+- DialAug: Mixing up Dialogue Contexts in Contrastive Learning for Robust Conversational Modeling, COLING 2022, [link](https://aclanthology.org/2022.coling-1.35/)
+- Counterfactual Data Augmentation via Perspective Transition for Open-Domain Dialogues, EMNLP 2022, [link](https://aclanthology.org/2022.emnlp-main.106.pdf)
+- Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data, EMNLP 2020, [link](https://aclanthology.org/2020.emnlp-main.277/)
+- Insufficient data can also rock! learning to converse using smaller data with augmentation, AAAI 2019, [link](https://dl.acm.org/doi/abs/10.1609/aaai.v33i01.33016698)
 
 
 
