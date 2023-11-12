@@ -20,5 +20,5 @@ Proposal of Tutorial: [Source](./src/DAConvAI_proposal_CIKM2023.pdf)
 | 12:15-12:25  | Conclusion & Future Works [[Slides]](./src/CIKM2023-ConvAug-Future.pdf) | Faegheh |
 | 12:25-12:30  | Q&A  | --- |
 
-Refrences: [Source](./src/CIKM2023_refs.pdf)
+Refrences: [Source](./src/CIKM2023-refs.pdf)
 
