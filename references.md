@@ -7,7 +7,10 @@ In this section, we have compiled a comprehensive list of the papers that will b
 <!--   We have also highlighted the most important ones in pink, which facilitates the reading process for those who do not have enough time to read all the articles. -->
 </p>
 
-
+| Title  | Link | Source | 
+| ------------- | ------------- | ------------- |
+| Conversational Recommender Systems, RecSys 2020  | [source](https://recsys.acm.org/recsys20/tutorials/#content-tab-1-5-tab) | [video](https://www.youtube.com/watch?v=RdGnJSRA0aw&t=2415s) |
+|
 
 ## Related Tutorials
 - Conversational Recommender Systems, RecSys 2020, [source](https://recsys.acm.org/recsys20/tutorials/#content-tab-1-5-tab), [video](https://www.youtube.com/watch?v=RdGnJSRA0aw&t=2415s)
