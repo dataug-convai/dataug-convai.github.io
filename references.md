@@ -52,6 +52,7 @@ In this section, we have compiled a comprehensive list of the papers that will b
 
 
 ### PostLLM
+- DIALGEN: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations, Arxiv 2023, [link](https://arxiv.org/abs/2307.07047)
 - In-Context Learning User Simulators for Task-Oriented Dialog Systems, Arxiv 2023, [link](https://arxiv.org/pdf/2306.00774.pdf)
 - DIALOGIC: Controllable Dialogue Simulation with In-Context Learning, EMNLP 2022, [link](https://aclanthology.org/2022.findings-emnlp.318/)
 - LAD: Language Models as Data for Zero-Shot Dialog, SIGDIAL 2022, [link](https://aclanthology.org/2022.sigdial-1.55/)
@@ -91,6 +92,7 @@ In this section, we have compiled a comprehensive list of the papers that will b
 ### PostLLM
 - INA: An Integrative Approach for Enhancing Negotiation Strategies with Reward-Based Dialogue System, EMNLP 2023, [link](https://paperswithcode.com/paper/ina-an-integrative-approach-for-enhancing)
 - Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation, EMNLP 2023, [link](https://paperswithcode.com/paper/target-oriented-proactive-dialogue-systems)
+- AUGESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation, ACL 2023, [link](https://aclanthology.org/2023.findings-acl.99/)
 - Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration, Arxiv 2023, [link](https://arxiv.org/abs/2305.13626)
 - Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data, Arxiv 2023, [link](https://arxiv.org/abs/2304.01196)
 - PERSONACHATGEN: Generating Personalized Dialogues using GPT-3, CCGPK 2022, [link](https://aclanthology.org/2022.ccgpk-1.4/)
